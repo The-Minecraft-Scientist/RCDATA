@@ -9,3 +9,5 @@
 auto update script from master data sheets
 
 make sure part names are consistent between INDEX and PARTS sheets
+
+reverse engineer blockData :shiver:
