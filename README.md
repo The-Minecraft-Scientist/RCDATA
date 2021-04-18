@@ -4,5 +4,5 @@
 
 
  TODO:
-auto update script from master data sheets
+auto update script from master data sheets \n
 make sure part names are consistent between INDEX and PARTS sheets
