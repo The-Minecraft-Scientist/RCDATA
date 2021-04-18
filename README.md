@@ -1,5 +1,5 @@
 # RCDATA
- Data on all RC parts, including internal ids for RCBUP decoding ~~finally~~
+ *Data on all RC parts, including internal ids for RCBUP decoding ~~finally~~*
 
  W.I.P.
 
